@@ -1,4 +1,5 @@
 # object-detection
+# tugas AI
  Real-time Object Detection
 
 1. Intsall library opencv -> pip install opencv-python
